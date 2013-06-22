@@ -29,6 +29,13 @@ python/autom4te.cache/
 python/build/
 python/configure
 python/osmgpsmap.c
+python/omf.make
+python/xmldocs.make
+omf.make
+m4/gtk-doc.m4
+gtk-doc.make
+xmldocs.make
+docs/reference/version.xml
 src/Makefile
 src/mapviewer
 stamp-h1
